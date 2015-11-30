@@ -1,3 +1,5 @@
+![deprecated](https://img.shields.io/badge/status-deprecated-red.svg?style=plastic)
+
 # iseventsupported
 
 A function for analyzing event support in browsers (using feature detection)
